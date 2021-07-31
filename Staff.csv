@@ -1,0 +1,13 @@
+ID,Name,Password,Hourly Rate,Total Working Hour,Role,Team
+C1,BigBoss,boss,100,100,M,A
+C2,Staff2,c2,60,20,C,B
+C3,LILBoss,boss,100,20,M,B
+C4,Staff4,c4,59,10,C,B
+C5,Staff5,c5,35,10,C,A
+C9,Staff9,c9,50,0,C,A
+C10,Staff10,c10,45,0,C,A
+C11,Staff11,c11,50,0,C,A
+C12,Staff12,c12,48,0,C,A
+C13,Staff13,c13,46,0,C,A
+C14,Staff14,c14,67,0,C,B
+C15,Staff15,c15,39,1,C,A

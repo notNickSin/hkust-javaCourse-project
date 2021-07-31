@@ -1,0 +1,10 @@
+Appointment ID,Staff ID,Staff,Customer Name,Phone No.,Address,Date,Time start,Time end,Duration,Amount,Status
+A1,C2,Staff2,Josh,88888888,Ust1,14/05/2021,848,908,1,$666,Not Completed
+A2,C4,Staff4,Josh,88888888,Ust /SEP/5/F,17/05/2021,720,780,1,$666,Not Completed
+A3,C5,Staff5,Josh,88888888,Ust/SEP/ 1,13/05/2022,540,600,1,$666,Not Completed
+A4,C11,Staff11,OMG,12345678,ABC1,16/05/2022,720,780,1,$789,Not Completed
+A5,C10,Staff10,1,12345678,Ust,12/05/2021,601,661,1,$200,Completed
+A6,C10,Staff10,11,12345678,1/F/SEP/ OMG SO HANDSOMe,13/05/2021,601,661,1,$1,Not Completed
+A7,C5,Staff5,12,12345678,6/F/SEP/1,12/05/2021,600,720,2,$1,Completed
+A8,C15,Staff15,Josh Man,96543210,65/F1,11/05/2021,600,660,1,$10000,Completed
+A9,C15,Staff15,OMG,65432105,1F/SEP/ OMG1,12/05/2021,600,660,1,$120,Completed

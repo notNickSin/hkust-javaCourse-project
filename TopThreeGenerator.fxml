@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.281" xmlns:fx="http://javafx.com/fxml/1" fx:controller="TopThreeGenerator">
+   <children>
+      <TableView fx:id="topThreeTable" layoutX="102.0" layoutY="68.0" prefHeight="264.0" prefWidth="396.0">
+        <columns>
+          <TableColumn fx:id="idColumn" prefWidth="88.40003204345703" text="ID" />
+          <TableColumn fx:id="nameColumn" prefWidth="143.199951171875" text="Name" />
+            <TableColumn fx:id="revenueColumn" prefWidth="163.60003662109375" text="Amount" />
+        </columns>
+      </TableView>
+      <Button fx:id="backButton" layoutX="457.0" layoutY="344.0" mnemonicParsing="false" onAction="#pressBack" text="Back" />
+   </children>
+</AnchorPane>
