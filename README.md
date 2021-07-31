@@ -41,3 +41,13 @@ Note: You may keep all the data in csv file(s)
 3. You can assume that the assigned team of the staff is fixed after the cleaner’s record is created in the system.
 4. Other functions e.g. Accounting, Finance and Inventory are not included in the system.
 5. For simplicity, we keep all data in English only.
+
+## Project Final Product Examples
+#### Login Page
+![image](https://user-images.githubusercontent.com/88203859/127743525-a716cdd1-c209-4c5b-a29d-65cc56fa8b8b.png)
+
+#### View Appointment
+![image](https://user-images.githubusercontent.com/88203859/127743577-62f7286f-3134-4b72-8a62-a4ae19abe3fd.png)
+
+#### Salary Report
+![image](https://user-images.githubusercontent.com/88203859/127743597-9713fa71-d098-47e1-a985-27bca84a8160.png)
